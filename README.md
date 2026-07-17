@@ -14,7 +14,7 @@ Computer Engineering Student @ CIn-UFPE
 
 I enjoy exploring computer science fundamentals through implementation and problem solving.
 
-My main interests are algorithm design, data structures, and understanding how software works at a deeper level. I use this profile to document projects, experiments, and solutions developed throughout my studies.
+My main interests are algorithm design, data structures, and systems programming. I use this profile to document projects, experiments, and solutions developed throughout my studies.
 
 ---
 
@@ -24,18 +24,3 @@ My main interests are algorithm design, data structures, and understanding how s
 - Competitive Programming
 - Systems Programming
 - Modern C++
-
----
-
-## Featured Work
-
-**Red-Black Tree**  
-Implementation of a generic self-balancing binary search tree in C++.
-
-**Codeforces**  
-Collection of contest solutions and algorithmic problem solving practice.
-
-**CSES**  
-Weekly practice focused on strengthening algorithmic foundations.
-
----
