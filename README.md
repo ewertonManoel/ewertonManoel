@@ -2,43 +2,69 @@
 
 <p align="center">
 Computer Engineering Student @ CIn-UFPE<br>
-C/C++ Developer • Competitive Programming • Systems Programming
+Focused on C++, Algorithms, and Systems Programming
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,mysql,linux,git,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git,vscode" />
 </p>
 
 ---
 
 ## About Me
 
-Computer Engineering student interested in **algorithms, data structures, and systems programming**.
+I am a Computer Engineering student at **CIn-UFPE** interested in algorithms, data structures, and systems programming.
 
 I enjoy understanding how things work under the hood, implementing classic concepts, and improving my problem-solving skills through competitive programming.
 
 ---
 
+## Technologies
+
+**Languages:** C, C++, Python, SQL  
+**Tools:** Git, Linux, VS Code  
+**Database:** MySQL  
+
+---
+
 ## Competitive Programming
 
-I practice competitive programming through:
+I practice competitive programming to strengthen my algorithmic thinking and build a deeper understanding of data structures and problem-solving techniques.
+
+Platforms:
 
 - **Codeforces** — contests and upsolving
-- **CSES** — algorithmic foundations and classic techniques
-- **LeetCode** — additional problem-solving practice
+- **CSES Problem Set** — algorithmic foundations and classical techniques
+- **LeetCode** — additional algorithm practice
+
+Profiles:
+
+- Codeforces: *(add your link)*
+- LeetCode: *(add your link)*
+
+---
+
+## Highlights
+
+- Implemented classic data structures from scratch in C++.
+- Maintaining consistent practice in algorithms and competitive programming.
+- Building projects focused on understanding computer science fundamentals.
 
 ---
 
 ## Featured Projects
 
-**Red-Black Tree**  
-Generic Red-Black Tree implementation in modern C++.
+### Red-Black Tree
 
-**Codeforces**  
-Collection of contest solutions and upsolving exercises.
+Generic Red-Black Tree implementation in modern C++, focused on self-balancing trees, templates, and efficient data structure design.
 
-**CSES**  
-Weekly practice focused on algorithms and data structures.
+### Codeforces
+
+Collection of contest solutions and upsolving exercises focused on competitive programming.
+
+### CSES
+
+Weekly practice repository focused on algorithms, data structures, and building a strong problem-solving repertoire.
 
 ---
 
@@ -52,5 +78,7 @@ Weekly practice focused on algorithms and data structures.
 ---
 
 <p align="center">
-<a href="https://github.com/ewertonManoel">GitHub</a>
+<a href="https://github.com/ewertonManoel">
+<img src="https://img.shields.io/badge/GitHub-ewertonManoel-black?style=flat&logo=github">
+</a>
 </p>
