@@ -1,28 +1,26 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Banner"/>
+  <img src="./banner.svg" width="100%" alt="Banner">
 </p>
 
-<h2 align="center">Ewerton Manoel</h2>
-
 <p align="center">
-Computer Engineering Student @ <b>CIn-UFPE</b><br>
-Interested in Algorithms, Systems Programming and Software Engineering
+  <strong>Computer Engineering Student @ CIn-UFPE</strong><br>
+  Interested in Algorithms, Systems Programming and Software Engineering
 </p>
 
 <p align="center">
   <a href="https://github.com/ewertonManoel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/ewerton_fernandes/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://codeforces.com/profile/ewerton">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git,github,vscode,mysql&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql,linux,git,github,vscode&perline=8"/>
 </p>
 
 ---
@@ -31,20 +29,19 @@ Interested in Algorithms, Systems Programming and Software Engineering
 
 I enjoy exploring computer science fundamentals through implementation and problem solving.
 
-My main interests are algorithm design, data structures, competitive programming, and systems programming.
+My main interests include:
 
----
-
-## Focus Areas
-
-- Data Structures & Algorithms
+- Algorithms
+- Data Structures
 - Competitive Programming
 - Systems Programming
 - Modern C++
 
 ---
 
+## GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonManoel&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonManoel&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
