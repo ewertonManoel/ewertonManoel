@@ -1,1 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
 
+  <rect width="1280" height="340" fill="url(#bg)"/>
+
+  <g opacity="0.06" stroke="#ffffff">
+    <path d="M0 40H1280"/><path d="M0 80H1280"/><path d="M0 120H1280"/>
+    <path d="M0 160H1280"/><path d="M0 200H1280"/><path d="M0 240H1280"/><path d="M0 280H1280"/>
+    <path d="M0 320H1280"/>
+    <path d="M160 0V340"/><path d="M320 0V340"/><path d="M480 0V340"/>
+    <path d="M640 0V340"/><path d="M800 0V340"/><path d="M960 0V340"/>
+    <path d="M1120 0V340"/>
+  </g>
+
+  <line x1="110" y1="75" x2="1170" y2="75" stroke="url(#line)" stroke-width="3"/>
+  <line x1="110" y1="275" x2="1170" y2="275" stroke="url(#line)" stroke-width="3"/>
+
+  <g stroke="#58a6ff" stroke-width="2" fill="none" opacity="0.55">
+    <circle cx="90" cy="170" r="8"/>
+    <circle cx="125" cy="140" r="4"/>
+    <circle cx="125" cy="200" r="4"/>
+    <line x1="98" y1="170" x2="121" y2="143"/>
+    <line x1="98" y1="170" x2="121" y2="197"/>
+
+    <circle cx="1190" cy="170" r="8"/>
+    <circle cx="1155" cy="140" r="4"/>
+    <circle cx="1155" cy="200" r="4"/>
+    <line x1="1182" y1="170" x2="1159" y2="143"/>
+    <line x1="1182" y1="170" x2="1159" y2="197"/>
+  </g>
+
+  <text x="640" y="138" text-anchor="middle"
+        font-family="Segoe UI, Ubuntu, Arial, sans-serif"
+        font-size="42" font-weight="700"
+        fill="#f0f6fc">Ewerton Manoel</text>
+
+  <text x="640" y="176" text-anchor="middle"
+        font-family="Segoe UI, Ubuntu, Arial, sans-serif"
+        font-size="20"
+        fill="#8b949e">Computer Engineering @ CIn-UFPE</text>
+
+  <text x="640" y="218" text-anchor="middle"
+        font-family="Consolas, monospace"
+        font-size="18"
+        fill="#58a6ff">Algorithms • Computer Systems • Embedded Systems • Modern C++</text>
+</svg>
