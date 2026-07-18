@@ -34,5 +34,5 @@ My main interests include:
 - Algorithms
 - Data Structures
 - Competitive Programming
-- Systems Programming
+- Embedded Systems
 - Modern C++
