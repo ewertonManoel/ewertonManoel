@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>Computer Engineering Student @ CIn-UFPE</strong><br>
-  Interested in Algorithms, Systems Programming and Software Engineering
+  Building strong foundations in algorithms and computer science
 </p>
 
 <p align="center">
