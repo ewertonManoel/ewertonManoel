@@ -11,9 +11,6 @@
   <a href="https://github.com/ewertonManoel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717">
   </a>
-  <a href="https://leetcode.com/ewerton_fernandes/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116">
-  </a>
   <a href="https://codeforces.com/profile/ewerton">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB">
   </a>
