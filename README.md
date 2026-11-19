@@ -57,7 +57,7 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=8" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=light&perline=8" />
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,mysql,linux,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,linux,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
   </picture>
 </p>
 
