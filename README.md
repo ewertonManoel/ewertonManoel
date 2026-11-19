@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/ewerton">
-    <img src="./btn-codeforces.svg" width="180" height="38" alt="Codeforces" />
+    <img src="./btn-codeforces.svg" width="150" height="32" alt="Codeforces" />
   </a>
   &nbsp;
   <a href="https://github.com/ewertonManoel/Library">
-    <img src="./btn-library.svg" width="180" height="38" alt="CP Library" />
+    <img src="./btn-library.svg" width="150" height="32" alt="CP Library" />
   </a>
   &nbsp;
   <a href="https://portal.cin.ufpe.br/">
-    <img src="./btn-cin.svg" width="180" height="38" alt="CIn-UFPE" />
+    <img src="./btn-cin.svg" width="150" height="32" alt="CIn-UFPE" />
   </a>
 </p>
 
