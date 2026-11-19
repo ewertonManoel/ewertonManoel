@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/ewerton">
-    <img src="https://img.shields.io/badge/Codeforces-ewerton-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://github.com/ewertonManoel/Library">
-    <img src="https://img.shields.io/badge/CP_Library-28_Algorithms-0D1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF" alt="CP Library" />
+    <img src="https://img.shields.io/badge/CP_Library-0D1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF" alt="CP Library" />
   </a>
   <a href="https://portal.cin.ufpe.br/">
-    <img src="https://img.shields.io/badge/CIn--UFPE-Computer_Engineering-161B22?style=for-the-badge&logoColor=white" alt="CIn-UFPE" />
+    <img src="https://img.shields.io/badge/CIn--UFPE-161B22?style=for-the-badge&logoColor=white" alt="CIn-UFPE" />
   </a>
 </p>
 
@@ -53,9 +53,9 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cjs%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cjs%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=light&perline=10" />
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,mysql,linux,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,nodejs,mysql,linux,git,github,vscode&theme=dark&perline=9" alt="Tech Stack" />
   </picture>
 </p>
 
