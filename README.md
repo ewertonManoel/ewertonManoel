@@ -53,8 +53,8 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,mysql,linux,git,github,vscode&theme=dark&perline=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,mysql,linux,git,github,vscode&theme=light&perline=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cjs%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp%2Cc%2Cpython%2Cjs%2Cnodejs%2Cmysql%2Clinux%2Cgit%2Cgithub%2Cvscode&theme=light&perline=10" />
     <img src="https://skillicons.dev/icons?i=cpp,c,python,js,nodejs,mysql,linux,git,github,vscode&theme=dark&perline=10" alt="Tech Stack" />
   </picture>
 </p>
@@ -79,12 +79,13 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=ffffff&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
   </picture>
+  &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ewertonManoel&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ewertonManoel&theme=default&background=ffffff&border=d0d7de&stroke=d0d7de&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&dates=57606a&currStreakNum=0f172a&sideNums=0f172a" />
-    <img height="165" src="https://streak-stats.demolab.com?user=ewertonManoel&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" alt="GitHub Streak" />
+    <img height="155" src="https://streak-stats.demolab.com?user=ewertonManoel&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc" alt="GitHub Streak" />
   </picture>
 </p>
 
