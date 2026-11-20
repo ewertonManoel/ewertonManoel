@@ -30,7 +30,7 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
   <tr>
     <td width="50%" valign="top">
       <b>Algorithms &amp; Competitive Programming</b><br/>
-      Regular practice across <a href="https://codeforces.com/profile/ewerton">Codeforces</a>, CSES, and LeetCode — maintaining a personal C++ template library covering DP, Graphs, Math, and Data Structures.
+      Regular practice across <a href="https://codeforces.com/profile/ewerton">Codeforces</a> and LeetCode — maintaining a personal C++ template library covering DP, Graphs, Math, and Data Structures.
     </td>
     <td width="50%" valign="top">
       <b>Modern C++ &amp; Data Structures</b><br/>
@@ -70,7 +70,6 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
 | **[Library](https://github.com/ewertonManoel/Library)** | Personal competitive programming library with C++ templates across `DP`, `Graphs`, `Math`, and `Extra` (Fenwick Tree, Segment Tree, Dijkstra, Miller-Rabin, Matrix Exp, and more). | `C++` · `Algorithms` |
 | **[Red-Black-Tree](https://github.com/ewertonManoel/Red-Black-Tree)** | Template-based Red-Black Tree in C++ with `NIL` sentinel, RAII memory management, copy safety, and guaranteed `O(log n)` operations. | `Modern C++` · `Data Structures` |
 | **[Codeforces](https://github.com/ewertonManoel/Codeforces)** | Contest solutions and upsolving archive focused on algorithmic techniques and problem-solving refinement. | `C++` · `Competitive Programming` |
-| **[CSES](https://github.com/ewertonManoel/CSES)** | Structured C++ solutions to the CSES Problem Set emphasizing graph algorithms, DP, and theoretical foundations. | `C++` · `CSES` |
 | **[Leetcode](https://github.com/ewertonManoel/Leetcode)** | C++ solutions automatically synced to GitHub via a custom local Node.js server and browser trigger. | `C++` · `Node.js` · `Automation` |
 
 ---
@@ -79,9 +78,9 @@ I'm a **Computer Engineering** student at **CIn-UFPE** (Recife, Brazil), focused
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=ffffff&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=24292f&ring_color=0969da" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring=58a6ff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=ffffff&border_color=d0d7de&title_color=0969da&icon_color=0969da&text_color=24292f&ring=0969da" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=ewertonManoel&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring=58a6ff" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
